@@ -11,6 +11,8 @@ composite (monolith) programs. Hence, it has no stand-alone variation.
 CmdBox developers are free to use whatever `version` module they choose or
 to omit it entirely when minimal executable sizes are desired.
 
+[CmdBox]: <https://github.com/rwxrob/cmdbox>
+
 ## Install 
 
 Use `import` with a blank identifier to be composed:
@@ -24,7 +26,7 @@ import (
 
 ## Embedded Documentation
 
-See the [`cmd.go`][cmd.go] file itself for additional embedded
+See the [`cmd.go`](cmd.go) file itself for additional embedded
 documentation about this command.
 
 ## Usage
@@ -39,5 +41,5 @@ Copyright (c) 2021 Robert S. Muhlestein
 Released under the [Apache 2.0](LICENSE)
 
 Contributors and project participants implicitly accept the 
-[Developer Certificate of Authenticity (DCO)][DCO].
+[Developer Certificate of Authenticity (DCO)](DCO).
 
