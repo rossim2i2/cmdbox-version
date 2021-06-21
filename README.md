@@ -1,4 +1,4 @@
-# CmdBox Default `version` Module
+# CmdBox Default Version Module (`cmdbox-version`)
 
 [![GoDoc](https://godoc.org/cmdbox-version?status.svg)](https://godoc.org/cmdbox-version)
 [![License](https://img.shields.io/badge/license-Apache2-brightgreen.svg)](LICENSE)
@@ -43,3 +43,8 @@ Released under the [Apache 2.0](LICENSE)
 Contributors and project participants implicitly accept the 
 [Developer Certificate of Authenticity (DCO)](DCO).
 
+"CmdBox" and "cmdbox" are legal trademarks of Robert S. Muhlestein but
+can be used freely to refer to the CmdBox project
+<https://github.com/rwxrob/cmdbox> without limitation. To avoid
+potential developer confusion, intentionally using these trademarks to
+refer to other projects --- free or proprietary --- is prohibited.

@@ -1,12 +1,13 @@
 package cmd
 
 import (
+	"fmt"
+
 	"github.com/rwxrob/cmdbox"
-	"github.com/rwxrob/cmdbox/fmt"
 )
 
 func init() {
-	x := cmdbox.New("version")
+	x := cmdbox.Add("version")
 	x.Usage = ``
 	x.Summary = `provide version and legal information`
 
