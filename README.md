@@ -2,12 +2,10 @@
 
 [![GoDoc](https://godoc.org/cmdbox-version?status.svg)](https://godoc.org/cmdbox-version)
 [![License](https://img.shields.io/badge/license-Apache2-brightgreen.svg)](LICENSE)
-[![Go Report
-Card](https://goreportcard.com/badge/cmdbox-version)](https://goreportcard.com/report/cmdbox-version)
-[![Coverage](https://gocover.io/_badge/github.com/rwxrob/cmdbox-version)](https://gocover.io/github.com/rwxrob/cmdbox-version)
+[![Go Report Card](https://goreportcard.com/badge/cmdbox-version)](https://goreportcard.com/report/cmdbox-version)
 
 This module provides the default `version` command to be used in [CmdBox]
-composite (monolith) programs. Hence, it has no stand-alone variation.
+composite programs. Hence, it has no stand-alone variation.
 CmdBox developers are free to use whatever `version` module they choose or
 to omit it entirely when minimal executable sizes are desired.
 
@@ -33,6 +31,7 @@ documentation about this command.
 
 ```
 foo version
+foo version other
 ```
 
 ## Legal
