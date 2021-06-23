@@ -1,4 +1,4 @@
-# CmdBox Default Version Module (`cmdbox-version`)
+# `cmdbox-version` CmdBox Default Version Module
 
 [![GoDoc](https://godoc.org/cmdbox-version?status.svg)](https://godoc.org/cmdbox-version)
 [![License](https://img.shields.io/badge/license-Apache2-brightgreen.svg)](LICENSE)
